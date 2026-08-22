@@ -1,0 +1,16 @@
+description,bug
+"Login button crashes the application",1
+"Application freezes during checkout",1
+"Password reset gives an error",1
+"Website crashes when uploading a file",1
+"Search returns an unexpected error",1
+"Application shows a database connection error",1
+"User cannot complete payment",1
+"App closes when opening settings",1
+"Add dark mode to the application",0
+"Change the website logo",0
+"Add a new profile picture option",0
+"Create a new dashboard design",0
+"Add Google login as a new feature",0
+"Allow users to change their username",0
+"Add a notification setting",0s
